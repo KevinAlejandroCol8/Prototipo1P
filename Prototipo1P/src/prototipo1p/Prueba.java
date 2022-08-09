@@ -83,7 +83,7 @@ public class Prueba extends javax.swing.JFrame {
         Connection cn=cc.conexion();
         try{
             PreparedStatement pst=cn.prepareStatement("INSERT INTO prueba(id, nombre ) VALUES(?,?)");
-            FileInputStream archivofoto;
+            //FileInputStream archivofoto;
             pst.setString(1,jTextField1.getText());
             pst.setString(2,jTextField2.getText());
 
