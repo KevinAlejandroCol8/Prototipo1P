@@ -1,0 +1,41 @@
+commit b70a3da61efe19e7d7bd9935c2f260e135ce1f9f (HEAD -> main, origin/main, origin/HEAD)
+Author: KevinAlejandroCol8 <kevin_gonzalez16@outlook.es>
+Date:   Tue Aug 9 13:46:02 2022 -0600
+
+    Cambios Finales
+
+commit ec24e060cced758fa2b199d55fa9af25915c54a8
+Author: KevinAlejandroCol8 <kevin_gonzalez16@outlook.es>
+Date:   Tue Aug 9 13:28:52 2022 -0600
+
+    Cambios java
+
+commit 64ce6a0207ce778a64d7965c683c9b35239a00e7
+Author: KevinAlejandroCol8 <kevin_gonzalez16@outlook.es>
+Date:   Tue Aug 9 11:51:54 2022 -0600
+
+    Base de datos
+
+commit 15c7866571ce31b4275a44c2e9279c1878dc2761
+Author: KevinAlejandroCol8 <kevin_gonzalez16@outlook.es>
+Date:   Tue Aug 9 10:47:35 2022 -0600
+
+    Base de proyecto
+
+commit 9f34f2a1b2127e338fa0103dcf0844d01f5ca927
+Author: KevinAlejandroCol8 <kevin_gonzalez16@outlook.es>
+Date:   Tue Aug 9 10:45:57 2022 -0600
+
+    Diagramas cantidad 3
+
+commit 0061d202f64d158fb5e89c11cea2956ce2867ffe
+Author: KevinAlejandroCol8 <kevin_gonzalez16@outlook.es>
+Date:   Tue Aug 9 10:25:59 2022 -0600
+
+    Diagramas
+
+commit f86a635df108c3ceedc4637132b890b2f21432c2
+Author: AlejandroCol8 <36580046+KevinAlejandroCol8@users.noreply.github.com>
+Date:   Tue Aug 9 09:47:01 2022 -0600
+
+    Initial commit
